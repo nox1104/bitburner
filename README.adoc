@@ -1,0 +1,29 @@
+
+
+= Scripte für das Spiel Bitburner
+:author_1: nox1104
+:revnumber: 0.1.0
+:revnumber-caption: Version
+:doctype: book
+:note-caption: Hinweis
+:caution-caption: Work in progress
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 4
+:example-caption: Beispiel
+:sectanchors:
+:sectnums:
+:chapter-signifier: Kapitel
+
+
+*Taktik*
+
+Bisher versuche ich auf den gehackten Servern ein "Alles-ein-bisschen-script" laufen
+zu lassen und auf einem *starken* Home-PC oder einem gemieteten Server "Korrektur-Scripte"
+in vielen Threads möglichst schnell per _grow_ und _weaken_ das verfügbare _money_ nahe max und
+die _security_ nahe min zu halten.
+
+*File Extensions*
+
+Als File Extensions ist .java gesetzt, damit das Texthighlighting automatisch funktioniert.
+Im Spiel enden die Files natürlich auf .script

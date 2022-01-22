@@ -5,3 +5,6 @@ while (true) {
     print(getServerMaxMoney(target))
     print(getServerMoneyAvailable(target))
 }
+
+//print("Max Money:" Math.round(getServerMaxMoney(target));
+//print("Money available:" Math.round(getServerMoneyAvailable(target));
