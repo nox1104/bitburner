@@ -1,6 +1,6 @@
-target = ('SERVERNAMEs');
+target = (args[0]);
 moneyThresh = getServerMaxMoney(target) * 0.9;
-securityThresh = Math.round(getServerBaseSecurityLevel(target)) * 1.1;
+securityThresh = Math.round(getServerMinSecurityLevel(target)) * 1.1;
 
 while(true) {
     if (getServerSecurityLevel(target) > securityThresh) {
