@@ -1,2 +1,2 @@
 # bitburner
-Scripts to optimize the game experience
+Skripte, die das Leben erleichtern sollten
