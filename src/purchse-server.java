@@ -1,4 +1,9 @@
-{purchaseServer(SERVERNAME, RAM IN MB)}
+var Ram = 131072;
+var Sn = "pserv-128TB-1"
+
+{
+    purchaseServer(Sn, Ram);
+}
 
 //ram = args[0];
 //hn = "pserv-";
